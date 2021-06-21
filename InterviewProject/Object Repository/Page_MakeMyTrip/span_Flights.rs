@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Flights</name>
+   <tag></tag>
+   <elementGuidId>706a1780-d368-462a-adb5-db402f427a3a</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SW']/div/div[2]/div/div/nav/ul/li[1]/a/span[text()='Flights']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.chNavText.darkGreyText</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'chNavText darkGreyText' and (text() = ' Flights ' or . = ' Flights ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chNavText darkGreyText</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Flights </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SW&quot;)/div[@class=&quot;landingContainer&quot;]/div[@class=&quot;headerOuter&quot;]/div[@class=&quot;chHeaderWrapper navOnly&quot;]/div[@class=&quot;chHeaderContainer&quot;]/nav[1]/ul[@class=&quot;makeFlex font12&quot;]/li[@class=&quot;menu_Flights&quot;]/a[@class=&quot;active makeFlex hrtlCenter column&quot;]/span[@class=&quot;chNavText darkGreyText&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SW']/div/div[2]/div/div/nav/ul/li[1]/a/span[text()='Flights']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INR'])[1]/following::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENG'])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flights']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
